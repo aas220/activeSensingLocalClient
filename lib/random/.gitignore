@@ -1,0 +1,12 @@
+# File types
+*.hdf5
+
+# Folders
+googletest
+build
+lib
+output
+
+# IDE folders
+.idea
+cmake-build-debug
